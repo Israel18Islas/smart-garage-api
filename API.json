@@ -1,0 +1,54 @@
+{
+"GarageRow":[
+    {
+        "id": 1,
+        "rowName": "name",
+        "icon": "icon",
+        "Spots": [{
+            "id": 1,
+            "ubicacion": "Spot 1",
+            "Drawable": "photo",
+            "devices": [{
+                "id": 1,
+                "Status": "Active",
+                "type":[{
+                    "id":1,
+                    "name": "presence-sensor",
+                    "date": "21-07-2021",
+                    "readings": 0,
+                    "icon": "photo"
+                },
+                {
+                    "id":2,
+                    "name": "monoxide-carbon-sensor",
+                    "date": "21-07-2021",
+                    "readings": 135,
+                    "icon": "photo"
+                },
+                {
+                    "id":3,
+                    "name": "Temperature",
+                    "date": "21-07-2021",
+                    "readings": 27,
+                    "icon": "photo"
+                },
+                {
+                    "id":4,
+                    "name": "Humidity",
+                    "date": "21-07-2021",
+                    "readings": 20,
+                    "icon": "photo"
+                },
+                {
+                    "id":5,
+                    "name": "Ultrasonic",
+                    "date": "21-07-2021",
+                    "readings": 90,
+                    "icon": "photo"
+                }
+            ]
+            }]
+        }]
+    }
+]
+}
