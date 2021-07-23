@@ -1,0 +1,23 @@
+{
+  "name": "smart-garage-api",
+  "version": "1.0.0",
+  "description": "Smart Garage API for Android App and Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel18Islas/smart-garage-api.git"
+  },
+  "author": "Israel Islas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Israel18Islas/smart-garage-api/issues"
+  },
+  "homepage": "https://github.com/Israel18Islas/smart-garage-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
